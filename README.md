@@ -1,13 +1,12 @@
 ---
-title: Hello world
-description: This is a simple starting point for the tutorial.
-image: "[[lighthouse.png]]"
-showHero: true
+title: This Blog Does Not Exist
+description: nothing going on over here. just carry on with your game
+image: "[[church-on-empty-plains.jpg]]"
+showHero: false
 showToc: false
 ---
 
-## 👋 Hey there!
+#  Some nonexistent things
 
-This is a minimal homepage I’ll start from in today’s tutorial.  
+because why not.
 
-...
