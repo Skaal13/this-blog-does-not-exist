@@ -1,5 +1,5 @@
 ---
-title: Add a Blog Section to Your Flowershow Site
+title: Hello world
 description: This is a simple starting point for the tutorial.
 image: "[[lighthouse.png]]"
 showHero: true
