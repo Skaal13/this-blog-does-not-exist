@@ -1,5 +1,5 @@
 ---
-title: ~~Blogs~~
+title: Blogs
 description: A collection of my blog posts
 layout: list
 list:
