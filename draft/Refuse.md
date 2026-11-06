@@ -1,3 +1,9 @@
+---
+title: Refuse
+description:
+publish: false
+---
+
 You are filth of various forms, your existence anathema to your environs. Piled for too long, you fester in peaceful silence until a wandering Guest disturbed your slumber and met their end within your toxic embrace. From their remains came thought and perception. Of their agonizing death, of the interesting world beyond. None horrifies you as much as knowing that your presence in this earth is an error waiting to be corrected.
 
 Refuse is a GM-less tabletop roleplaying game where you play as sentient junk whose existence is worthless and malign to the world they inhabit. This game seeks to evoke a sense of shame and guilt within you for the sin of existence. The desire to cover and hide yourself to spare others from the disgust of gazing upon your wasteful form.
