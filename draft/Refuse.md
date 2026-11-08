@@ -1,7 +1,7 @@
 ---
 title: Refuse
 description:
-publish: false
+publish: true
 ---
 
 You are filth of various forms, your existence anathema to your environs. Piled for too long, you fester in peaceful silence until a wandering Guest disturbed your slumber and met their end within your toxic embrace. From their remains came thought and perception. Of their agonizing death, of the interesting world beyond. None horrifies you as much as knowing that your presence in this earth is an error waiting to be corrected.
